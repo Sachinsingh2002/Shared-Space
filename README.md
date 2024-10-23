@@ -1,3 +1,22 @@
+
+# Shared-Space
+
+
+<img width="1435" alt="Screenshot 2024-10-23 at 4 29 02 PM" src="https://github.com/user-attachments/assets/5e957ced-aea8-46a7-92c1-7edab777b36c">
+
+
+
+
+
+
+<img width="1440" alt="Screenshot 2024-10-23 at 4 29 25 PM" src="https://github.com/user-attachments/assets/390cd881-b540-4e8f-84a3-077290239b06">
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
